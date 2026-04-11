@@ -18,6 +18,9 @@
 ### 4. 网站收集
 - [常用工具网站](./docs/websites.md)
 
+### 5. 部署教程
+- [翻墙VPN部署教程 (V2Ray)](./docs/vpn-deploy.md)
+
 ---
 
 ## 🛠️ 如何参与贡献

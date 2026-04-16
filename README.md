@@ -21,6 +21,9 @@
 ### 5. 部署教程
 - [翻墙VPN部署教程 (V2Ray)](./docs/vpn-deploy.md)
 
+### 6. 大模型提示词
+- [提示词收集（Prompt Collection）](./docs/prompts.md)
+
 ---
 
 ## 🛠️ 如何参与贡献

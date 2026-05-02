@@ -24,6 +24,9 @@
 ### 6. 大模型提示词
 - [提示词收集（Prompt Collection）](./docs/prompts.md)
 
+### 7. Skills 使用手册
+- [Cursor Agent Skills 安装与使用指南](./docs/skills.md)
+
 ---
 
 ## 🛠️ 如何参与贡献

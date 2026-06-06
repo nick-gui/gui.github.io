@@ -27,6 +27,9 @@
 ### 7. Skills 使用手册
 - [Cursor Agent Skills 安装与使用指南](./docs/skills.md)
 
+### 8. 架构设计
+- [Hermes 架构设计](./docs/hermes.md)
+
 ---
 
 ## 🛠️ 如何参与贡献
